@@ -1,0 +1,25 @@
+{
+  "name": "map-app",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Paul Suceveanu <paul.suceveanu@qualitance.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.5.0",
+    "angularjs-geolocation": "^0.1.1",
+    "modernizr": "^3.3.1",
+    "bootstrap": "^3.3.6",
+    "holderjs": "^2.9.1"
+  }
+}
